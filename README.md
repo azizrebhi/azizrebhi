@@ -1,8 +1,8 @@
 <div align="center">
 
-# Aziz Rebhi
+# Mohamed Aziz Rebhi
 
-**CS Engineering Student · MCP Servers · RAG Pipelines · Backend APIs**
+**CS Engineering Student · MCP Servers · RAG Pipelines · Active OWASP Contributor**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aziz-rebhi-971b32192)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamedaziz.rebhi@ensi-uma.tn)
@@ -12,17 +12,21 @@
 
 ---
 
-### 🎯 GSoC 2026 — OWASP BLT
+### �️ Open-Source — OWASP BLT
 
-> **Building [BLT-MCP](https://github.com/OWASP-BLT/BLT-MCP) + BLT-CLI** — an AI agent interface and developer CLI for the BLT bug bounty platform.
+5 merged PRs across 4 repositories:
 
-- Migrating the MCP server from TypeScript → Python (official MCP SDK, no framework)
-- Building a shared Python API client used by both MCP and CLI
-- **5 merged PRs** across all 4 BLT repos — including [PR #21](https://github.com/OWASP-BLT/BLT-MCP/pull/21) on the MCP handler itself
+| Repo | PR | What I Did |
+|------|----|------------|
+| [BLT](https://github.com/OWASP-BLT/BLT) | [#5916](https://github.com/OWASP-BLT/BLT/pull/5916) | Fixed Poetry setup order in README |
+| [BLT](https://github.com/OWASP-BLT/BLT) | [#5917](https://github.com/OWASP-BLT/BLT/pull/5917) | Optimized imports + added type hints to API views |
+| [BLT-MCP](https://github.com/OWASP-BLT/BLT-MCP) | [#21](https://github.com/OWASP-BLT/BLT-MCP/pull/21) | Consolidated resource request logic in MCP handler |
+| [BLT-API](https://github.com/OWASP-BLT/BLT-Extension) | [#59](https://github.com/OWASP-BLT/BLT-Extension/pull/59) | Fixed HTTP status code (404 → 405) in auth handlers |
+| [BLT-Pages](https://github.com/nickcopi/BLT-Pages) | [#28](https://github.com/nickcopi/BLT-Pages/pull/28) | Added GitHub issue reactions on bug cards |
 
 ---
 
-### 🔧 What I've Built
+### �🔧 What I've Built
 
 | Project | What it does |
 |---------|-------------|
