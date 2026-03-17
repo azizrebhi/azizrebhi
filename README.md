@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aziz-rebhi-971b32192)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamedaziz.rebhi@ensi-uma.tn)
-[![OWASP Slack](https://img.shields.io/badge/-OWASP%20Slack-4A154B?style=flat&logo=slack&logoColor=white)](#)
+[![Slack](https://img.shields.io/badge/-OWASP%20Slack-4A154B?style=flat&logo=slack&logoColor=white)](#)
 
 </div>
 
