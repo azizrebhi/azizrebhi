@@ -1,30 +1,17 @@
 <div align="center">
 
-# Mohamed Aziz Rebhi
+# Aziz Rebhi
 
-**CS Engineering Student · MCP Servers · RAG Pipelines · Active OWASP Contributor**
+**CS Engineering Student · MCP Servers · RAG Pipelines · Active [OWASP BLT](https://github.com/OWASP-BLT) Contributor**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aziz-rebhi-971b32192)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamedaziz.rebhi@ensi-uma.tn)
-[![Slack](https://img.shields.io/badge/-OWASP%20Slack-4A154B?style=flat&logo=slack&logoColor=white)](#)
+[![OWASP Slack](https://img.shields.io/badge/-OWASP%20Slack-4A154B?style=flat&logo=slack&logoColor=white)](#)
 
 </div>
 
 ---
 
-### �️ Open-Source — OWASP BLT
-
-5 merged PRs across 4 repositories:
-
-| Repo | PR | What I Did |
-|------|----|------------|
-| [BLT](https://github.com/OWASP-BLT/BLT) | [#5916](https://github.com/OWASP-BLT/BLT/pull/5916) | Fixed Poetry setup order in README |
-| [BLT](https://github.com/OWASP-BLT/BLT) | [#5917](https://github.com/OWASP-BLT/BLT/pull/5917) | Optimized imports + added type hints to API views |
-| [BLT-MCP](https://github.com/OWASP-BLT/BLT-MCP) | [#21](https://github.com/OWASP-BLT/BLT-MCP/pull/21) | Consolidated resource request logic in MCP handler |
-| [BLT-API](https://github.com/OWASP-BLT/BLT-Extension) | [#59](https://github.com/OWASP-BLT/BLT-Extension/pull/59) | Fixed HTTP status code (404 → 405) in auth handlers |
-| [BLT-Pages](https://github.com/nickcopi/BLT-Pages) | [#28](https://github.com/nickcopi/BLT-Pages/pull/28) | Added GitHub issue reactions on bug cards |
-
----
 
 ### �🔧 What I've Built
 
@@ -39,12 +26,12 @@
 
 ### 🛠️ Tech Stack
 
-```
-Backend     Python · FastAPI · Django · MCP Python SDK · JSON-RPC 2.0
-AI/ML       LangGraph · LangChain · RAG · pgvector · ChromaDB · Ollama · HuggingFace
-DevOps      Docker · GitHub Actions · OAuth 2.0 · pytest
-Frontend    React · Angular · Tailwind CSS
-```
+| Area | Technologies |
+|------|--------------|
+| **Backend** | Python · FastAPI · Django · MCP Python SDK · JSON-RPC 2.0 |
+| **AI/ML** | LangGraph · LangChain · RAG · pgvector · ChromaDB · Ollama · HuggingFace |
+| **DevOps** | Docker · GitHub Actions · OAuth 2.0 · pytest |
+| **Frontend** | React · Angular · Tailwind CSS |
 
 ---
 
